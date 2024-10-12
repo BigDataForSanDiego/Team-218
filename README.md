@@ -5,7 +5,7 @@
 #### Team Name: `MiraCosta CSGC team 2`    
   
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `MealMatch allows patients to order meals from outside the hospital that fit both their dietary and cultural wants, in turn improving their physical and mental recovery. `
+##### `MealMatch tackles the issue of inadequate hospital food options, which can negatively impact patient recovery, by creating a seamless platform that integrates doctor-approved, nutritionally tailored meal plans with existing food delivery services like UberEats and DoorDash, providing patients with accessible, personalized meals that support their health and well-being during their hospital stay. `
 
 
 #### A visual
